@@ -35,3 +35,16 @@ padding-top: 0px;
     background-size: cover;
     padding: 200px;
 }
+.about_us{
+    
+height: auto;
+display: flex;
+justify-content: space-between;
+}
+.about_us .about_text{
+  padding-top: 100px;
+}
+.about_us .about_pic img{
+height: 500px;
+width: 500px;
+}
