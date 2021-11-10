@@ -28,3 +28,10 @@ float: right;
 padding: 50px;
 padding-top: 0px;
 }
+.advert{
+
+    height: auto;
+    background-image: url("images/bg.png");
+    background-size: cover;
+    padding: 200px;
+}
