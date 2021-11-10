@@ -15,3 +15,16 @@ body
     margin: 0px;
     
 }
+.navbar{
+  
+    height: auto;
+    padding: 35px;
+    margin: 0px;
+}
+.navbar li{
+    height: auto;
+    display: inline;
+float: right;
+padding: 50px;
+padding-top: 0px;
+}
