@@ -3,9 +3,9 @@
 #### This is a e-commerce website   for our industrial service advertisements and listings, 10 nov 2021
 #### By ** sylvestus sigei **
 ## Description
-This is a e-commerce ui developed for a lettuce eat restaurant consumption
+This is a e-commerce ui developed for a industrial service advertisements and listings
 ## Setup/Installation Requirements
-This site is hosted in gh-pages on ..............url
+This site is hosted in gh-pages on  https://sylvestus.github.io/myserviser/   url
 
 ## Known Bugs
 This being a simple ui it has no known bugs though updates are always being made as per user feedback to maximize on productivity
