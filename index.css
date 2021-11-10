@@ -48,3 +48,15 @@ justify-content: space-between;
 height: 500px;
 width: 500px;
 }
+.affordable{
+    margin-top: 0px;
+    background-image: url("images/Rectangle\ 11.png");
+    background-size: cover;
+    padding: 180px; 
+    font-size: x-large;
+    color: white;
+}
+#afford{
+    font-size: small;
+    color: white;
+}
