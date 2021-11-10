@@ -67,12 +67,13 @@ width: 500px;
 .our_services .list{
     display: flex;
     justify-content: space-around;
-     
+     padding: 25px;
 }
 
 .our_services li{
    list-style: none;
     box-shadow:2px 3px 5px grey;
+    padding: 20px;
 }
 .our_services li img{
     height: 150px;
