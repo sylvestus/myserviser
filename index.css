@@ -1,3 +1,9 @@
 span{
     color: rgba(50, 108, 205);
 }
+button{
+    color: white;
+    background-color: rgba(50, 108, 205);
+    border: none;
+    padding: 5px 15px 5px 15px;
+}
