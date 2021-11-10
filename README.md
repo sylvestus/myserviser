@@ -1,6 +1,6 @@
 # first_ip
-# Buger palace website
-#### This is a e commerce sice for our letuce eat restaurant, 31 oct 2021
+# myservicer website
+#### This is a e-commerce website   for our industrial service advertisements and listings, 10 nov 2021
 #### By ** sylvestus sigei **
 ## Description
 This is a e-commerce ui developed for a lettuce eat restaurant consumption
