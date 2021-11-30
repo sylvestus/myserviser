@@ -1,7 +1,7 @@
 # first_ip
 # Buger palace website
 #### This is a e commerce sice for our letuce eat restaurant, 31 oct 2021
-#### By ** sylvestus sigei **
+#### By ** sylvestus sigei  & njeri gathuku**
 ## Description
 This is a e-commerce ui developed for a lettuce eat restaurant consumption
 ## Setup/Installation Requirements
@@ -17,7 +17,7 @@ sylvestus.sigei@student.moringa.com
 ### License
 *MIT License
 
-Copyright (c) [2021] [sylvestus kiprotich sigei]
+Copyright (c) [2021] [sylvestus kiprotich sigei ,njeri gathuku]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
